@@ -435,6 +435,7 @@ a {font-size: 12px; line-height: 0.3em;}
     /*HOME*/
 nav {width: 768px;
     height: 130px;
+    left: 0;
     display: flex;    
     flex-direction: column;
     align-items: center; 
@@ -565,7 +566,7 @@ a {font-size: 12px;}
 
 @media (max-width: 425px) /*Mobile L*/{
 /*HOME*/
-nav {height: 100px;}
+nav {height: 100px; left: 0;}
 nav a {font-size: 15px; line-height: 0.1em;}
 #marca {top: 20px;}
 #titulohome {font-size:25px;}  
