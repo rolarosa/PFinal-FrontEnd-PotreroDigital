@@ -7,5 +7,5 @@ Ofrece servicios a varias ciudades de la región. Durante la pandemia surgió la
 trabajos al interior de la provincia. 
 Busca dar spoluciones a la compra y venta de servicios e insumos, para el disfruto y la seguridad e higiene.**
 
-##Diseño realizado con hojas de estilo. Priorizando la capacidad visual de la misma.
+##Diseño realizado con hojas de estilo CSS/HTML/. Priorizando la capacidad visual de la misma, de imagenes. Sin BD.
 
